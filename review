@@ -1,1 +1,81 @@
 
+
+Hotels
+-dashboard{name, pictures of hotel, SEO, list of avialable rooms, and number aviolable , room price tag, VR-view of hotel facility(optional) *Room Page
+- Picture gallery with descriptions 
+- Comment section available on room page (available to both previous and current booked users)
+- Users can rate room based on thumbs up or thumbs down)
+- Rating average shows on the room page
+
+
+
+Free service 
+- Look up closest available hotels near me
+- Search by name, location, max-amount, min-amount, search event centers
+- Book hotel in the app(returns a reference)[qr-code or RandomString] 
+- collections(paystack)
+- 
+
+
+
+Regular  
+-Edit profile, email, password, 2fa activate/deactivate
+- Get activity history(successful booking, failed bookings, All transaction)
+- In app chat/ contact number feature
+
+
+Admin 
+  -query a paticular transaction based on status, type
+- Query all users of transaction
+- Prioritize hotels that shows up on first page 
+- Place and monitor advert on screen (“there will different){remove, add and renew advert}   Super Admin
+- Add, remove privilege from user or admin
+
+
+
+
+Name of APP {
+
+
+
+
+
+}
+
+
+Android/IOS/website
+mobile(Flutter)
+Backend - PHP
+Frontend - Angular
+
+UI/UX
+
+App landing page[
+|
+Hotel dashboard screen
+	-comprise of Hotel Theme color
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
